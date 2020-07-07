@@ -1,2 +1,4 @@
 spring.datasource.url=dola
 user1.name=das
+limit.max=20
+
