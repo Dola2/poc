@@ -1,4 +1,5 @@
-src.db.url=jdbc:oracle:thin:@//172.22.175.212:1521:RISD
-src.db.username=risbatch
-src.db.password=thinkn_9
-src.db.driver.class.name=oracle.jdbc.driver.OracleDriver
+src:
+    db:
+        url: jdbc:oracle:thin:@//172.22.175.212:1521:RISD
+        username: risbatch
+        password: thinkn_9
