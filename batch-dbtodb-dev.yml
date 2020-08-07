@@ -1,8 +1,8 @@
 # src:
     # db:
-        # url: jdbc:oracle:thin:@//172.22.175.212:1521/RISD
-        # username: risbatch
-        # password: thinkn_9
+        # url: 
+        # username: 
+        # password: 
         
 src:
     db:
